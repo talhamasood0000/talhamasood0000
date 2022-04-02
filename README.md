@@ -84,8 +84,11 @@
  
 </p>
 
+<h2><i>💻 Tech Stack</i></h2>
+<p align="center">
 <img alt="Talha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=talhamasood0000&bg_color=1F222E&color=ffffff&line=f08c2d&point=444040&area=true&hide_border=true" />
 
+</p>
 ---
 <!--
 
