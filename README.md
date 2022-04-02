@@ -4,21 +4,19 @@
 
 ![](https://komarev.com/ghpvc/?username=talhamasood0000&color=blueviolet&label=Profile+Views)
 </p>
- 〆  Bachelor's degree in Computer Science from the [University of Engineering & Technology Lahore](https://uet.edu.pk/) 🎓
+ 〆  Bachelor's degree in Electrical Engineering from the [University of Engineering & Technology Lahore](https://uet.edu.pk/)
 
- 〆  [Beta Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com) 🔰
+ 〆  [Co-Chair IEEE Web Development Team for Year 2019-20](https://www.ieeeuet.org.pk/WebDev-Team.html)
 
- 〆 Former Core Team Lead of [Google Developers Student Club](https://developers.google.com/community/dsc) UET Chapter 2019-2021 🚀
+ 〆 [Member of Research and Outreach Team IET UET Lahore 2018-Present](https://www.facebook.com/theiet.uet/)
 
- 〆 IEEE Brand Ambassador & Chairperson of Computational Intelligence Society ⚡
+ 〆 Django Developer for web development & ML Engineer
 
- 〆 MERN Stack Developer for web development & Flutter for Mobile App Development 🌱
+ 〆 Hobbies: [Chess](https://lichess.org/@/talhamasood0000) and Badminton
 
- 〆 Hobbies: Graphics Designing & Digital illustrations 🎨
-
- 〆 Creating open-source web, mobile and desktop apps 🛠️
+ 〆 Creating open-source web and ML applications
  
----
+ 
 ## 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
