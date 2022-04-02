@@ -71,19 +71,20 @@
 <h2><i>⚙️ GitHub Analytics</i></h2>
 <p align="center">
  
- <img width="400px" src="https://github-readme-stats.vercel.app/api?username=talhamasood0000&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" alt="Ehmad's Github Stats"/>
+ <img width="400px" src="https://github-readme-stats.vercel.app/api?username=talhamasood0000&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" alt="Talha's Github Stats"/>
  </p>
  <p align="center">
- <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=talhamasood0000&theme=tokyonight&hide_border=true" alt="Ehmad's Github Streak"/> 
+ <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=talhamasood0000&theme=tokyonight&hide_border=true" alt="Talha's Github Streak"/> 
  
 </p>
 
 <p align="center">
- <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhamasood0000&hide=python&layout=compact&theme=tokyonight&hide_border=true" alt="Ehmad's Github Languages"/>
+ <img width="400px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=talhamasood0000&layout=compact&langs_count=8&theme=algolia"
+      alt="Talha's Github Languages"/>
  
 </p>
 
-<img alt="Talha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=justEhmadSaeed&bg_color=1F222E&color=ffffff&line=f08c2d&point=444040&area=true&hide_border=true" />
+<img alt="Talha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=talhamasood0000&bg_color=1F222E&color=ffffff&line=f08c2d&point=444040&area=true&hide_border=true" />
 
 ---
 <!--
