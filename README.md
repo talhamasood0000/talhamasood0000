@@ -5,17 +5,14 @@
 ![](https://komarev.com/ghpvc/?username=talhamasood0000&color=blueviolet&label=Profile+Views)
 <a href="https://twitter.com/talhamasood0000">
 <img alt="@justEhmad Saeed | Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
-</a>  <a href="https://www.linkedin.com/in/justehmadsaeed/">
+</a>  <a href="https://www.linkedin.com/in/talhamasood0000/">
 <img alt="EhmadSaeed | LinkedIN"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://www.facebook.com/justEhmadSaeed">
+<a href="https://www.facebook.com/profile.php?id=100007796074946">
 <img  alt="@justEhmad Saeed | Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
-<a href="https://www.instagram.com/justEhmadSaeed">
+<a href="https://www.instagram.com/talhamasood0000">
 <img alt="@justEhmadSaeed | Instagram"  src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="https://medium.com/@justEhmadSaeed" target="_blank">
-<img src = "https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" alt = "Medium" />
 </a>
 </p>
 
@@ -48,13 +45,15 @@
 
 <p align="center">
  
- <img width="400px" src="https://github-readme-stats.vercel.app/api?username=justEhmadSaeed&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" alt="Ehmad's Github Stats"/>
- <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=justEhmadSaeed&theme=tokyonight&hide_border=true" alt="Ehmad's Github Streak"/> 
+ <img width="400px" src="https://github-readme-stats.vercel.app/api?username=talhamasood0000&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" alt="Ehmad's Github Stats"/>
+ </p>
+ <p>
+ <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=talhamasood0000&theme=tokyonight&hide_border=true" alt="Ehmad's Github Streak"/> 
  
 </p>
 
 <p align="center">
- <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justEhmadSaeed&hide=python&layout=compact&theme=tokyonight&hide_border=true" alt="Ehmad's Github Languages"/>
+ <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhamasood0000&hide=python&layout=compact&theme=tokyonight&hide_border=true" alt="Ehmad's Github Languages"/>
  
 </p>
 
