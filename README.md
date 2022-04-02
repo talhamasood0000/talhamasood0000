@@ -63,7 +63,6 @@
     <td align='center' width="190">
        <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" >
     </td>
-
     <td align='center'>
         <img src="https://download.logo.wine/logo/Redis/Redis-Logo.wine.png">
     </td>
