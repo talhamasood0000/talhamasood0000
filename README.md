@@ -86,6 +86,6 @@
 
 <h2><i>💻 Contribution Graph</i></h2>
 <p align="center">
-<img alt="Talha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=talhamasood0000&bg_color=1F222E&color=ffffff&line=f08c2d&point=444040&area=true&hide_border=true" />
+[![Saad's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=talhamasood0000&theme=xcode)](https://github.com/talhamasood0000)
 
 </p>
