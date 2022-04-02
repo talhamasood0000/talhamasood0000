@@ -47,7 +47,7 @@
  
  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=talhamasood0000&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" alt="Ehmad's Github Stats"/>
  </p>
- <p>
+ <p align="center">
  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=talhamasood0000&theme=tokyonight&hide_border=true" alt="Ehmad's Github Streak"/> 
  
 </p>
