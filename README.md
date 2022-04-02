@@ -86,7 +86,7 @@
 
 <h2><i>💻 Contribution Graph</i></h2>
 <p align="center">
-<img alt="Talha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=talhamasood0000&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&point=444040&area=true&hide_border=true" />
+<img alt="Talha's Activity Graph" src="https://github-readme-stats.vercel.app/api?username=talhamasood0000&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&width=40%&align=left" />
 
 </p>
 <!--
