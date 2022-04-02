@@ -69,16 +69,6 @@
 </table>
 
 <h2><i>⚙️ GitHub Analytics</i></h2>
-
-<p align="center">
-<a href="https://github.com/saadhaxxan">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=talhamasood0000&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=talhamasood0000&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=talhamasood0000&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
-</p>
-</p>
-
 <p align="center">
  
  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=talhamasood0000&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" alt="Ehmad's Github Stats"/>
