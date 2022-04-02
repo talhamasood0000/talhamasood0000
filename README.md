@@ -26,8 +26,8 @@
 <a href="https://linkedin.com/in/talhamasood0000"><img src="https://img.shields.io/badge/-Talha%20Masood-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:talhamasood0000@gmail.com"><img src="https://img.shields.io/badge/-talha@talhamasood.me-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/talhamasood000"><img src="https://img.shields.io/badge/-@talhamasood000-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://twitter.com/talhamasood0000"><img src="https://img.shields.io/badge/-@tal-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
----
+<a href="https://twitter.com/talhamasood0000"><img src="https://img.shields.io/badge/-@talhamasood0000-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
+
 
 ### Top Tools & Languages 
 <p align="center">
