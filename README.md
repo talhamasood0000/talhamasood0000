@@ -39,15 +39,16 @@
     <td align='center' width="190">
         <img src="https://www.jing.fm/clipimg/full/53-537670_python-png-file-python-logo-png.png"  width="60" height="40">
     </td>
-    <td align='center' width="190">
-       <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" >
+     <td align='center' width="190">
+        <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png">
+    </td>
+     <td align='center'>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/TensorFlow_Logo_with_text.png">
     </td>
      <td align='center' width="190">
         <img src="https://git-scm.com/images/logos/1color-darkbg@2x.png" width="100">
     </td>
-    <td align='center' width="190">
-        <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png">
-    </td>
+
 </tr>
 <tr>
     <td align='center'>
@@ -56,12 +57,13 @@
     <td align='center'>
         <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="60">
     </td>
-    <td align='center'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/TensorFlow_Logo_with_text.png">
-    </td>
-    <td align='center'>
+     <td align='center'>
         <img src="https://buttercms.com/static/images/tech_banners/Flask.png" >
     </td>
+    <td align='center' width="190">
+       <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" >
+    </td>
+
     <td align='center'>
         <img src="https://download.logo.wine/logo/Redis/Redis-Logo.wine.png">
     </td>
@@ -84,12 +86,11 @@
  
 </p>
 
-<h2><i>💻 Tech Stack</i></h2>
+<h2><i>💻 Contribution Graph</i></h2>
 <p align="center">
 <img alt="Talha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=talhamasood0000&bg_color=1F222E&color=ffffff&line=f08c2d&point=444040&area=true&hide_border=true" />
 
 </p>
----
 <!--
 
 Here are some ideas to get you started:
