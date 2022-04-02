@@ -5,6 +5,7 @@
 ![](https://komarev.com/ghpvc/?username=talhamasood0000&color=blueviolet&label=Profile+Views)
 </p>
  〆  Bachelor's degree in Electrical Engineering from the [University of Engineering & Technology Lahore](https://uet.edu.pk/)
+ 
 
  〆  Co-Chair [IEEE Web Development Team](https://www.ieeeuet.org.pk/WebDev-Team.html) for Year 2019-20
 
@@ -85,7 +86,7 @@
 
 <h2><i>💻 Contribution Graph</i></h2>
 <p align="center">
-<img alt="Talha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=talhamasood0000&bg_color=1F222E&color=ffffff&line=f08c2d&point=444040&area=true&hide_border=true" />
+<img alt="Talha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=talhamasood0000&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&point=444040&area=true&hide_border=true" />
 
 </p>
 <!--
