@@ -6,9 +6,9 @@
 </p>
  〆  Bachelor's degree in Electrical Engineering from the [University of Engineering & Technology Lahore](https://uet.edu.pk/)
 
- 〆  [Co-Chair IEEE Web Development Team for Year 2019-20](https://www.ieeeuet.org.pk/WebDev-Team.html)
+ 〆  Co-Chair [IEEE Web Development Team](https://www.ieeeuet.org.pk/WebDev-Team.html) for Year 2019-20
 
- 〆 [Member of Research and Outreach Team IET UET Lahore 2018-Present](https://www.facebook.com/theiet.uet/)
+ 〆 Member of Research and Outreach Team [IET UET Lahore 2018-Present](https://www.facebook.com/theiet.uet/)
 
  〆 Django Developer for web development & ML Engineer
 
