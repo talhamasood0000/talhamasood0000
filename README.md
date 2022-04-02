@@ -71,15 +71,15 @@
 <h2><i>⚙️ GitHub Analytics</i></h2>
 <p align="center">
  
- <img width="400px" src="https://github-readme-stats.vercel.app/api?username=talhamasood0000&theme=tokyonight&show_icons=true&count_private=true&hide_border=true&theme=xcode" alt="Talha's Github Stats"/>
+ <img width="400px" src="https://github-readme-stats.vercel.app/api?username=talhamasood0000&theme=tokyonight&show_icons=true&count_private=true&hide_border=true&theme=grey" alt="Talha's Github Stats"/>
  </p>
  <p align="center">
- <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=talhamasood0000&theme=tokyonight&hide_border=true&theme=xcode" alt="Talha's Github Streak"/> 
+ <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=talhamasood0000&theme=tokyonight&hide_border=true&theme=grey" alt="Talha's Github Streak"/> 
  
 </p>
 
 <p align="center">
- <img width="400px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=talhamasood0000&layout=compact&langs_count=8&theme=xcode"
+ <img width="400px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=talhamasood0000&layout=compact&langs_count=8&theme=grey"
       alt="Talha's Github Languages"/>
  
 </p>
