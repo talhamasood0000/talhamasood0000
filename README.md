@@ -84,6 +84,6 @@
 
 <h2><i>💻 Contribution Graph</i></h2>
 <p align="center">
-<img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=talhamasood0000&bg_color=1F222E&color=ffffff&line=f08c2d&point=444040&theme=xcode&area=true&hide_border=true" />
+<img alt="Activity Graph" src="" />
 
 </p>
