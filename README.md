@@ -82,8 +82,3 @@
  
 </p>
 
-<h2><i>💻 Contribution Graph</i></h2>
-<p align="center">
-<img alt="Activity Graph" src="" />
-
-</p>
