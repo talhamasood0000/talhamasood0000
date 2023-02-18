@@ -82,4 +82,4 @@
 </p>
 
 
-[![Talha Masood's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=talhamasood0000)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Talha Masood's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=talhamasood0000&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
