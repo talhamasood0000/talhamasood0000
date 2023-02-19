@@ -81,6 +81,4 @@
       alt="Talha's Github Languages"/>
 </p>
 
-
-<h2><i>⚙️ Activity Graph</i></h2>
 [![Talha Masood's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=talhamasood0000&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
