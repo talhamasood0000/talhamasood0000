@@ -80,5 +80,9 @@
  <img width="400px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=talhamasood0000&layout=compact&langs_count=8&theme=merko"
       alt="Talha's Github Languages"/>
 </p>
+<p align="center">
+ <img width="400px" src="https://github-readme-activity-graph.cyclic.app/graph?username=talhamasood0000&theme=github-compact"
+      alt="Talha's Activity Graph"/>
+</p>
 
 [![Talha Masood's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=talhamasood0000&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
