@@ -84,5 +84,5 @@
  <img width="400px" src="https://github-readme-activity-graph.cyclic.app/graph?username=talhamasood0000&theme=github-compact"
       alt="Talha's Activity Graph"/>
 </p>
-1. Activity Graph
+1. Activity Graph for profile
 [![Talha Masood's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=talhamasood0000&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
