@@ -1,87 +1,77 @@
-### Hello World, [Talha Masood](http://talhamasood.me/) here! <img src="https://user-images.githubusercontent.com/46846821/87522094-a135a000-c69e-11ea-899d-e8093968ef3b.gif" width="24px">
+<div align="center">
+  <h1 style="color: #23f0ffff;">Hi there, I'm Talha Masood 👋</h1>
+  <a href="https://talhamasood0000.github.io/media/Talha%20Resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/View%20My%20Resume-Click%20Here-brightgreen?style=for-the-badge"/>
+  </a>
+</div>
 
-<p align="center">
-
-![](https://komarev.com/ghpvc/?username=talhamasood0000&color=0e75b6&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=talhamasood0000&color=0e75b6&label=Profile+Views)
 </p>
- 〆  Bachelor's degree in Electrical Engineering from the [University of Engineering & Technology Lahore](https://uet.edu.pk/)
- 
-
- 〆  Co-Chair [IEEE Web Development Team](https://www.ieeeuet.org.pk/WebDev-Team.html) for Year 2019-20
-
- 〆 Member of Research and Outreach Team [IET UET Lahore 2018-Present](https://www.facebook.com/theiet.uet/)
-
- 〆 Django Developer for web development & ML Engineer
-
- 〆 Hobbies: [Chess](https://lichess.org/@/talhamasood0000) and Badminton
-
- 〆 Creating open-source web and ML applications
- 
- 
-## 🤝🏻 &nbsp;Connect with Me
-
-<p align="center">
-<a href="talhamasood0000.github.io"><img src="https://img.shields.io/badge/-talhamasood.me-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/talhamasood0000"><img src="https://img.shields.io/badge/-Talha%20Masood-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:talhamasood0000@gmail.com"><img src="https://img.shields.io/badge/-talha@talhamasood.me-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/talhamasood000"><img src="https://img.shields.io/badge/-@talhamasood000-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://twitter.com/talhamasood0000"><img src="https://img.shields.io/badge/-@talhamasood0000-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
 
 
-<h2><i>💻 Tech Stack</i></h2>
+## 🚀 About Me  
+**Software Engineer | Full Stack Developer | AI Agent Builder | AI Bot Builder | AWS, Docker, Django, FastAPI, React, Nextjs**
 
-<table width="100">
-<tr>
-    <td align='center' width="190">
-        <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="60">
-    </td>
-    <td align='center' width="190">
-        <img src="https://www.jing.fm/clipimg/full/53-537670_python-png-file-python-logo-png.png"  width="60" height="40">
-    </td>
-     <td align='center' width="190">
-        <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png">
-    </td>
-     <td align='center'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/TensorFlow_Logo_with_text.png">
-    </td>
-     <td align='center' width="190">
-        <img src="https://git-scm.com/images/logos/1color-darkbg@2x.png" width="100">
-    </td>
+Passionate Software Engineer and AI/ML engineer with a strong background in python django, deep learning, large language models. Excellent problem-solving, research, and collaboration abilities. Seeking a challenging role to develop cutting-edge Web and AI solutions
 
-</tr>
-<tr>
-    <td align='center'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" height="40" width="60">
-    </td>
-    <td align='center'>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="60">
-    </td>
-     <td align='center'>
-        <img src="https://buttercms.com/static/images/tech_banners/Flask.png" >
-    </td>
-    <td align='center' width="190">
-       <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" >
-    </td>
-    <td align='center'>
-        <img src="https://download.logo.wine/logo/Redis/Redis-Logo.wine.png">
-    </td>
-</tr>
+🔹 **Programming Languages**: Python(Django, Flask, FastAPI), Anvil, Javascript(ReactJs, NextJs)  
+🔹 **AI Tools**: AI Agent Builder, RAG, Chatbots  
+🔹 **ML tools**: TensorFlow, PyTorch, Keras, Transformers, LLMs  
+🔹 **Tools**: Git, Docker, Docker Compose, Kubernetes, CI/CD Pipelines  
+🔹 **Cloud Technologies**: AWS, GCP  
+
+---
+
+## 🛠 Tech Stack  
+
+### 🚀 **Languages & Frameworks**
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge)
+![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=for-the-badge)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge)
+
+### ☁️ **Cloud & DevOps**
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?logo=google-cloud&logoColor=white&style=for-the-badge)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge)
+
+### 🧠 **AI & Machine Learning**
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white&style=for-the-badge)
+![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white&style=for-the-badge)
+![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FF6C37?logo=huggingface&logoColor=white&style=for-the-badge)
+![LangChain](https://img.shields.io/badge/-LangChain-FF9900?logo=langchain&logoColor=white&style=for-the-badge)
+![VectorDB](https://img.shields.io/badge/-VectorDB-000000?logo=vector&logoColor=white&style=for-the-badge)
+![RAG](https://img.shields.io/badge/-RAG-0A0A0A?logo=read-the-docs&logoColor=white&style=for-the-badge)
+![Chatbots](https://img.shields.io/badge/-Chatbots-008080?logo=chatbot&logoColor=white&style=for-the-badge)
+
+
+---
+
+<table>
+  <tr>
+    <th>Stats</th>
+    <th>Streak</th>
+    <th>Languages</th>
+  </tr>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=talhamasood0000&theme=github_dark"/></td>
+    <td><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=talhamasood0000&theme=github_dark&hide_border=true"/></a></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=talhamasood0000&theme=github_dark"/></td>
+  </tr>
 </table>
 
-<h2><i>⚙️ GitHub Analytics</i></h2>
+
+
+## 🌐 Connect with Me  
 
 <p align="center">
- <img width="400px" src="https://github-readme-stats.vercel.app/api?username=talhamasood0000&show_icons=true&count_private=true&theme=merko" alt="Talha's Github Stats"/>
- </p>
- <p align="center">
- <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=talhamasood0000&theme=tokyonight&theme=merko" alt="Talha's Github Streak"/> 
+  <a href="https://www.linkedin.com/in/talhamasood0000/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:talhamasood0000@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://talhamasood0000.github.io/"><img src="https://img.shields.io/badge/-Portfolio-4AB197?style=for-the-badge&logo=about.me&logoColor=white"/></a>
 </p>
-<p align="center">
- <img width="400px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=talhamasood0000&layout=compact&langs_count=8&theme=merko"
-      alt="Talha's Github Languages"/>
-</p>
-<p align="center">
- <img width="400px" src="https://github-readme-activity-graph.cyclic.app/graph?username=talhamasood0000&theme=github-compact"
-      alt="Talha's Activity Graph"/>
-</p>
-[![Talha Masood's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=talhamasood0000&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
