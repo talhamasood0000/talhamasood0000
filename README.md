@@ -58,7 +58,7 @@ Passionate Software Engineer and AI/ML engineer with a strong background in pyth
   </tr>
   <tr>
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=talhamasood0000&theme=github_dark"/></td>
-    <td><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=talhamasood0000&theme=gruvbox" alt="GitHub Streak" /></a></td>
+    <td><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=talhamasood0000&theme=github-dark" alt="GitHub Streak" /></a></td>
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=talhamasood0000&theme=github_dark"/></td>
   </tr>
 </table>
